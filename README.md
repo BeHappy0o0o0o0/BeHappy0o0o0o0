@@ -4,10 +4,6 @@
 <br>励志做一名合格的知识输出类up主！<br> </h6>
 <h6><a href="https://behappy0o0o0o0.github.io/"> 博客</a> | <a href="https://space.bilibili.com/1888115100/">bilibili</a></h6>
 
-<h4>👯 family 项目进度</h4>
-
-* 规划项目
-* pass
 
 <br>
 <h4>💬 联系我</h4>
